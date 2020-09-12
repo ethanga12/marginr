@@ -13,5 +13,8 @@
     "default_icon": "marginr.png",
     "default_popup": "popup.html"
   },
+  "background": {
+    "scripts": ["background.js"]
+  }
   "permissions": []
 }
